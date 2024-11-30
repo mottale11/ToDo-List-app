@@ -1,4 +1,5 @@
 # base code
+todo_list = ["watch movie", "take a walk", "submit project"
 new_task = input("Enter the task: ")
 todo_list.append(new_task)
 print(f"{new_task} added")
